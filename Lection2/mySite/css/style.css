@@ -1,0 +1,64 @@
+@font-face {
+    font-family: My font Possimus;
+    src: url(../fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+}
+
+html, body {
+    width: 100%;
+    overflow-x: hidden;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 2px 2px 0 2px;
+    
+}
+    
+.Logo{
+    padding: 21 58px 0 80px;
+
+}
+
+header img{
+    width: 200px;
+    height: 200px;
+}
+
+h1{
+    font-family: My font Possimus;
+    font-size: 45px;
+    text-align: center;
+    padding: 21 58px 0 80px;
+
+}
+
+nav{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+nav li{
+    padding: 35px 30px;
+}
+
+a{
+    /* color: blue; */
+}
+
+a:hover{
+    color:brown;
+}
+
+a:active{
+    color:chartreuse
+}
