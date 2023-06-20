@@ -1,0 +1,38 @@
+<?xml version="1.1" encoding="UTF-8"?>
+    <Catalog>
+        <movie>
+            <title>Один дома</title>
+            <year>1990</year>
+            <country>США</country>
+            <genre>Комедия</genre>
+            <director>Крис Коламбус</director>
+        </movie>
+        <movie>
+            <title>Я — легенда</title>
+            <year>2007</year>
+            <country>США</country>
+            <genre>Ужасы</genre>
+            <director>Фрэнсис Лоуренс</director>
+        </movie>
+        <movie>
+            <title>Аватар</title>
+            <year>2009</year>
+            <country>США</country>
+            <genre>Фантастика</genre>
+            <director>Джеймс Кэмерон</director>
+        </movie>
+        <movie>
+            <title>Гнев человеческий</title>
+            <year>2021</year>
+            <country>США</country>
+            <genre>Боевик</genre>
+            <director>Гай Ричи</director>
+        </movie>
+        <movie>
+            <title>Выживший</title>
+            <year>2015</year>
+            <country>Гонконг, Тайвань, США</country>
+            <genre>Приключения</genre>
+            <director>Алехандро Гонсалес Иньярриту</director>
+        </movie>
+    </Catalog>
